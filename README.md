@@ -28,5 +28,8 @@ In this analysis, I answer questions such as:
 - what impact do commercial hosts have on price and availability of apartments?  
 - which Berlin neighbourhoods are the most popular? 
 
+Check out the final presentation [here](https://public.tableau.com/app/profile/julia.fortuny/viz/BerlinAirbnbCaseStudy/Presentation#1
+)
+
 Source / citation: “Inside Airbnb” accessed from [Inside Airbnb](http://insideairbnb.com/get-the-data.html) on September 16th, 2021. Licensed under Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication". 
 And “Berlin Bezirke” accessed from [Funkeinteraktiv](https://github.com/funkeinteraktiv/Berlin-Geodaten/raw/master/berlin_bezirke.geojson) on September 22nd, 2021. Licence: CC-BY.
