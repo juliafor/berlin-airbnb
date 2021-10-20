@@ -1,11 +1,15 @@
 # portfolio-final
 For this final project of the data immersion course I utilised python with pandas, numpy, matplotlib, seaborn, scikit, pylab and folium libraries to conduct an analysis of Airbnb data in Berlin. 
 
-Airbnb has been around for more than 20 years and was initially launched to connect local people (“hosts”) and tourists (“guests”). The idea was to offer guests a “truly” local experience at the destination city while the hosts could make some additional cash by renting out their apartment while out of town. 
+Berlin has a chronic shortage of available and affordable long-term rental apartments. 
 
-Soon, some “hosts” began renting apartments purely for profit. This resulted in an increased amount of apartments in popular cities such as Berlin being used for commercial tourist rentals. This is called misappropriation. 
+In the debate around that Airbnb has been accused of facilitating the commercial exploitation of apartments, which could otherwise be used as homes for residents. 
 
-This case study explores the extent of misappropriation in Berlin. 
+The assumption is that for-profit hosts “occupy” and make apartments unavailable to locals as well as rent them out at excessively high prices, pushing up the overall rental costs in the city. 
+
+This issue is central to help combating the cause of the shortage.
+
+In this case study, I will explore the impact of commercial hosts on the Berlin rental market.   
 
 The data sets contain information on Airbnb listings for Berlin scraped from Airbnb in July 2021. 
 
@@ -16,7 +20,7 @@ In the folders you can find my code for:
 - visual exploratory data analysis (EDA), 
 - creating geographical visualisations: a choropleth map, 
 - supervised machine learning: linear regression,
-- unsupervised machine learning: clustering),
+- unsupervised machine learning: clustering,
 - time series analysis.  
 
 Time series analysis is not included in the final presentation just as many results of the EDA. 
