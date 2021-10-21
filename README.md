@@ -3,7 +3,7 @@ For this final project of the data immersion course I utilised python with panda
 
 Berlin has a chronic shortage of available and affordable long-term rental apartments. 
 
-In the debate around that Airbnb has been accused of facilitating the commercial exploitation of apartments, which could otherwise be used as homes for residents. 
+In the debate around that Airbnb has been blamed for facilitating the commercial exploitation of apartments, which could otherwise be used as homes for residents. 
 
 The assumption is that for-profit hosts “occupy” and make apartments unavailable to locals as well as rent them out at excessively high prices, pushing up the overall rental costs in the city. 
 
