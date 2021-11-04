@@ -1,4 +1,4 @@
-# Berlin Airbnb Case Study
+# Berlin Airbnb case study
 For this final project of the data immersion course I utilised python with pandas, numpy, matplotlib, seaborn, scikit, pylab and folium libraries to conduct an analysis of Airbnb data in Berlin. 
 
 Berlin has a chronic shortage of available and affordable long-term rental apartments. 
